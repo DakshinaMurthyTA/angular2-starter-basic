@@ -1,5 +1,5 @@
 # Angular 2 Starter
-
+# Updating the file
 The simplest starter kit you can find. Not trying to overcomplicate things, just get up and running with Angular 2. 
 
 All the essentials. None of the extras. Takes a lot of cues from the Angular [quickstart](https://angular.io/docs/ts/latest/quickstart.html).
